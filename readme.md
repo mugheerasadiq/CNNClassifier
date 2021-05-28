@@ -1,3 +1,4 @@
 ## Image Clasification using CNN - Trained on CIFAR-10 Dataset
-## Minimum Accuracy: 92%
+## Minimum Accuracy of Testing Data: 92%
+## Minimum Accuracy of Training Data: 98%
 We plan to develop an architecture for classifying images of 10 different classes like automobile, airplanes and birds. We investigated the deep neural networks to address this problem. We used the Convolutional Neural networks (CNN) to extract and learn features of the images and train our model for classification. We tried various experiments to improve the accuracy on our test dataset and finally achieved an accuracy of 92% by this approach. We used the RELU and Softmax as the activation functions.
